@@ -33,5 +33,8 @@ Learn to create, read, copy, move and inspect files entirely from the terminal.
 File inventory documented in notes.txt
 
 
+<img width="518" height="297" alt="image" src="https://github.com/user-attachments/assets/3ad2b030-5ddd-4641-b888-7575bdbf35c0" />
+<img width="643" height="304" alt="image" src="https://github.com/user-attachments/assets/bae7b113-c1c0-47b9-886f-9a3aca6830cc" />
+
 
 C
