@@ -2,7 +2,8 @@
 
 ## Objective
 
-Get comfortable in the Linux terminal — navigation, files, and understanding the filesystem structure.
+Get comfortable in the Linux terminal
+ To learn basic command and understanding the filesystem structure in linux.
 
 ---
 
