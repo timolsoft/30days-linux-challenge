@@ -1,0 +1,5 @@
+=== Day 2 File Inventory ===
+Date: Thu Apr  2 10:34:16 PM UTC 2026
+---
+sales.csv - main data file, 6 rows
+raw/sample_backup.csv - backup copy of original
