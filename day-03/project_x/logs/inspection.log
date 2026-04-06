@@ -1,2 +1,7 @@
-==inspection logs ===
-Date:  Fri Apr  3 10:53:39 PM UTC 2026
+=== Inspection Log ===
+Date: Sun Apr  5 09:46:28 PM UTC 2026
+Rows (excl header): 5
+Header: id,name,city,spend
+Last 2 rows: 4,Fatima,Leeds,670
+5,Liam,Bristol,3100
+File size (bytes): 124

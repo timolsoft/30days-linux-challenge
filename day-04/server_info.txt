@@ -1,5 +1,0 @@
-== Task 1 ==
-my present folder is: /home/user19/linux_challenge/30-days-of-learning/day-03
-my user name is: user19
-my shell is : /bin/bash
-my server hostname: najeeb-vps

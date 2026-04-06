@@ -1,0 +1,4 @@
+0	../logs/file_inventory.txt
+4.0K	../logs/inspection.log
+4.0K	../raw/customers_raw.csv
+4.0K	../processed/customers_clean.csv
