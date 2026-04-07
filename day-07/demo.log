@@ -1,0 +1,10 @@
+=== Stream Demo ===
+Date: Tue Apr  7 10:56:50 PM UTC 2026
+User: user19
+Testing stdout...
+33
+Testing error handling...
+cat: /nonexistent/file: No such file or directory
+Error caught and logged
+ls exit code: 0
+=== Demo Complete ===
