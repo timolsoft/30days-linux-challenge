@@ -1,0 +1,16 @@
+id,date,product,category,region,amount,status
+1,2026-01-01,Laptop,Electronics,North,1200.00,completed
+2,2026-01-02,Phone,Electronics,South,800.00,completed
+3,2026-01-03,Desk,Furniture,North,450.00,pending
+4,2026-01-04,Chair,Furniture,East,299.00,completed
+5,2026-01-05,Tablet,Electronics,West,650.00,failed
+6,2026-01-06,Monitor,Electronics,North,399.00,completed
+7,2026-01-07,Keyboard,Electronics,South,79.00,pending
+8,2026-01-08,Lamp,Furniture,East,49.00,completed
+9,2026-01-09,Headphones,Electronics,West,199.00,failed
+10,2026-01-10,Bookshelf,Furniture,North,189.00,completed
+11,2026-01-11,Laptop,Electronics,South,1200.00,completed
+12,2026-01-12,Phone,Electronics,East,800.00,pending
+13,2026-01-13,Webcam,Electronics,West,129.00,completed
+14,2026-01-14,Sofa,Furniture,North,899.00,failed
+15,2026-01-15,Laptop,Electronics,South,1200.00,completed

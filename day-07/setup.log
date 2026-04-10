@@ -1,0 +1,19 @@
+[2026-04-09 22:44:47] === Starting project setup: my_first_pipeline ===
+[2026-04-09 22:44:47] User: user19 | Host: najeeb-vps
+[2026-04-09 22:44:47] Creating folder structure...
+[2026-04-09 22:44:47] Folders created at /home/user19/projects/my_first_pipeline
+[2026-04-09 22:44:47] Creating credentials template...
+[2026-04-09 22:44:47] Credentials template secured with chmod 600
+[2026-04-09 22:44:47] Generating README...
+[2026-04-09 22:44:47] README generated
+[2026-04-09 22:44:47] === Setup complete! ===
+[2026-04-09 22:44:47] Project location: /home/user19/projects/my_first_pipeline
+[2026-04-09 22:44:47] Structure:
+/home/user19/projects/my_first_pipeline
+/home/user19/projects/my_first_pipeline/logs
+/home/user19/projects/my_first_pipeline/archive
+/home/user19/projects/my_first_pipeline/README.md
+/home/user19/projects/my_first_pipeline/raw
+/home/user19/projects/my_first_pipeline/scripts
+/home/user19/projects/my_first_pipeline/scripts/.env
+/home/user19/projects/my_first_pipeline/processed
