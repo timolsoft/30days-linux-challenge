@@ -1,0 +1,27 @@
+================================
+      SALES SUMMARY REPORT
+================================
+PRODUCT           AMOUNT     STATUS
+--------------------------------
+Laptop           1200.00  completed
+Phone             800.00  completed
+Desk              450.00    pending
+Chair             299.00  completed
+Tablet            650.00     failed
+Monitor           399.00  completed
+Keyboard           79.00    pending
+Lamp               49.00  completed
+Headphones        199.00     failed
+Bookshelf         189.00  completed
+Laptop           1200.00  completed
+Phone             800.00    pending
+Webcam            129.00  completed
+Sofa              899.00     failed
+Laptop           1200.00  completed
+================================
+Total transactions: 15
+Total revenue:      8542.00
+Completed:          9
+Failed:             3
+Pending:            3
+================================
